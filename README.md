@@ -42,7 +42,21 @@ Each guide includes a live interactive example at the top showing exactly what y
 
 ## Getting Started
 
-Download `optogantt-1.0.0.zip` from **[Gumroad](https://optomus.gumroad.com)**, unzip, and follow the quick-start guide for your framework. Each guide walks you through installation, bar construction, filter pane wiring, and optional customisation in straightforward numbered steps.
+Download `optogantt-1.0.0.zip` from **[Gumroad](https://optomus.gumroad.com/l/yjyusa)**, unzip, and follow the quick-start guide for your framework. Each guide walks you through installation, bar construction, filter pane wiring, and optional customisation in straightforward numbered steps.
+
+---
+
+## Licensing
+
+OptoGantt is available in three licence tiers:
+
+| Licence | Details | Purchase |
+|---------|---------|---------|
+| **Solo Developer** | Single developer | [Buy](https://optomus.gumroad.com/l/yjyusa) |
+| **Studio** | Small team | [Buy](https://optomus.gumroad.com/l/yamgx) |
+| **Enterprise** | Unlimited developers | [Buy](https://optomus.gumroad.com/l/pdqwg) |
+
+Full licence details and pricing at [gantt.nz](https://gantt.nz).
 
 ---
 
@@ -52,7 +66,7 @@ This is the public community repository for OptoGantt. The source code is mainta
 
 - 🐛 **Report a bug** — open an Issue with steps to reproduce
 - 💡 **Request a feature** — open an Issue describing your use case
-- 💬 **Ask a question** — open an Issue or email [support@gantt.nz](mailto:support@gantt.nz)
+- 💬 **Ask a question** — open a Discussion or email [support@gantt.nz](mailto:support@gantt.nz)
 
 ---
 
@@ -66,6 +80,5 @@ OptoGantt began life as a berth planning component inside [MarineBerth](https://
 
 📧 [support@gantt.nz](mailto:support@gantt.nz)  
 🌐 [gantt.nz](https://gantt.nz)  
-🛒 [optomus.gumroad.com](https://optomus.gumroad.com)
 
 *New Plymouth, Taranaki, New Zealand* 🌋
